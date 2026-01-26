@@ -1,6 +1,6 @@
 # Stereo Matching using Dynamic Programming
 
-Optimized Stereo Matching using Dynamic Programming implemented in MATLAB and Python.
+Stereo Matching using Dynamic Programming implemented in MATLAB and Python.
 
 ## Features
 
