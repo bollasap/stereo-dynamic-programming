@@ -10,12 +10,12 @@ Stereo Matching using Dynamic Programming implemented in MATLAB and Python.
 
 ### Two different versions of Dynamic Programming
 
-- Dynamic Programming with Left–Right Axes DSI
-- Dynamic Programming with Left–Disparity Axes DSI
+- DP with Left–Right Axes DSI
+- DP with Left–Disparity Axes DSI
 
 The algorithms are implemented in both MATLAB and Python.
 
-All algorithms are accelerated for performance using matrix operations and other techniques.
+All algorithms are optimized for performance using matrix operations and other techniques.
 
 ## Installation
 
